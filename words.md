@@ -17,3 +17,4 @@
 - Wa    = he/she/it/they
 - Whar  = Inquiry, context inferred
 - Real  = Noncommital response
+- walpers = everyone / you (plural)
