@@ -18,3 +18,4 @@
 - Whar  = Inquiry, context inferred
 - Real  = Noncommital response
 - walpers = everyone / you (plural)
+- por - because/for
