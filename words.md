@@ -20,4 +20,4 @@
 - walpers = everyone / you (plural)
 - por - because/for
 - chtet - need/want
-- meow - now
+- meow - now/here
