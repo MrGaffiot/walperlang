@@ -18,8 +18,9 @@
 - Whar  = Inquiry, context inferred
 - Real  = Noncommital response
 - walpers = everyone / you (plural)
-- por - because/for
-- chtet - need/want
-- kore/meow - now/here
-- im - in
-- demo - also
+- por = because/for
+- chtet = need/want
+- kore/meow = now/here
+- im = in
+- demo = also
+- koze = go
